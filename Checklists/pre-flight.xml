@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="checklist.xsl"?>
+
+<PropertyList>
+	<title>Pre-flight</title>
+	<page>
+		<item>
+			<name>Fuel tank drain</name>
+			<value>CHECK FOR DIRT OR WATER</value>
+		</item>
+		<item>
+			<name>Onboard Documents</name>
+			<value>COMPLETE</value>
+		</item>
+		<item>
+			<name>Vertical Stabilizer</name>
+		</item>
+		<item>
+                    <name>Skin</name>
+			<value>CHECK FOR DAMAGE OR CRACKS</value>
+		</item>
+		<item>
+			<name>RUDDER</name>
+			<value>CHECK MOUNTING</value>
+		</item>
+		<item>
+			<name>Rudder control system</name>
+			<value>CHECK</value>
+		</item>
+		<item>
+			<name>Pitot tube cover</name>
+			<value>REMOVE</value>
+		</item>
+		<item>
+			<name>Pitot tube</name>
+			<value>OCHECK</value>
+		</item>
+                
+		<item>
+			<name>Horizontal Stabilizer</name>
+		</item>
+		<item>
+                        <name>Skin</name>
+			<value>CHECK FOR DAMAGE OR CRACKS</value>
+		</item>
+		<item>
+			<name>STAB/ELEVATOR</name>
+			<value>CHECK MOUNTING, PLAY</value>
+		</item>
+                <item>
+			<name>Elevator control system</name>
+			<value>CHECK</value>
+		</item>
+		<item>
+			<name>Right fuselage skin</name>
+			<value>CHECK for cracks</value>
+		</item>
+
+		<item>
+			<name>RIGHT WING</name>
+		</item>
+		<item>
+			<name>Skin</name>
+			<value>CHECK for DAMAGE/CRACKS</value>
+		</item>
+		<item>
+			<name>SPOILER</name>
+			<value>CHECK, ensure complete retraction</value>
+		</item>
+		<item>
+			<name>RIGHT MAIN LANDING GEAR</name>
+		</item>
+
+		<item>
+			<name>Strut</name>
+			<value>CHECK for DAMGAGE/CRACKS</value>
+		</item>
+		<item>
+			<name>Fairing</name>
+			<value>CHECK for DAMAGE</value>
+		</item>	
+		<item>
+			<name>Tires and Brakes</name>
+			<value>CHECK</value>
+		</item>	
+		<item>
+			<name>Inflation</name>
+			<value>CHECK (1.8 bar)</value>
+		</item>	
+		<item>
+			<name>PROPELLER</name>
+		</item>
+		<item>
+			<name>CHECK</name>
+			<value> for DAMGAGE/CRACKS</value>
+		</item>
+		<item>
+			<name>SPINNER</name>
+			<value>Check mounting</value>
+		</item>
+		<item>
+			<name>Engine compartment</name>
+			<value>Check</value>
+		</item>
+		<item>
+			<name>FRONT LANDING GEAR</name>
+		</item>
+
+		<item>
+			<name>Strut</name>
+			<value>CHECK for DAMGAGE/CRACKS</value>
+		</item>
+		<item>
+			<name>Fairing</name>
+			<value>CHECK for DAMAGE</value>
+		</item>	
+		<item>
+			<name>Tires and Brakes</name>
+			<value>CHECK</value>
+		</item>	
+		<item>
+			<name>Inflation</name>
+			<value>CHECK (1.8 bar)</value>
+		</item>	
+		<item>
+			<name>LEFT MAIN LANDING GEAR</name>
+		</item>
+
+		<item>
+			<name>Strut</name>
+			<value>CHECK for DAMGAGE/CRACKS</value>
+		</item>
+		<item>
+			<name>Fairing</name>
+			<value>CHECK for DAMAGE</value>
+		</item>	
+		<item>
+			<name>Tires and Brakes</name>
+			<value>CHECK</value>
+		</item>	
+		<item>
+			<name>Inflation</name>
+			<value>CHECK (1.8 bar)</value>
+		</item>	
+
+		<item>
+			<name>LEFT WING</name>
+		</item>
+		<item>
+			<name>Skin</name>
+			<value>CHECK for DAMAGE/CRACKS</value>
+		</item>
+		<item>
+			<name>SPOILER</name>
+			<value>CHECK, ensure complete retraction</value>
+		</item>	
+	</page>
+</PropertyList>

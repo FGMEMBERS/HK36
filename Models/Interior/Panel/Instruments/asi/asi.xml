@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <path>asi.ac</path>
+
+  <animation>
+    <object-name>fond</object-name>
+    <object-name>face</object-name>
+    <object-name>needle</object-name>
+
+    <object-name>vitre</object-name>
+  </animation>
+
+  <!-- working for Rembrandt -->
+  <effect>
+    <inherits-from>Aircraft/Katana/Models/Effects/Glass/glass</inherits-from>
+    <object-name>vitre</object-name>
+  </effect>
+  
+  <animation>
+    <type>material</type>
+    <object-name>face</object-name>
+    <object-name>needle</object-name>
+    <condition>
+      <property>/controls/lighting/instrument-lights</property>
+    </condition>
+    <emission>
+      <red>   0.80 </red>
+      <green> 0.50 </green>
+      <blue>  0.50 </blue>
+    </emission>
+  </animation>
+
+  <animation>
+    <type>rotate</type>
+    <object-name>needle</object-name>
+    <property>instrumentation/airspeed-indicator/indicated-speed-kt</property>
+    <interpolation>
+      <entry><ind>   0.00 </ind><dep>   0.0 </dep></entry>
+      <entry><ind>  20.00 </ind><dep>  17 </dep></entry>
+      <entry><ind>  40 </ind><dep> 34 </dep></entry>
+      <entry><ind>  60 </ind><dep> 70 </dep></entry>
+      <entry><ind>  80 </ind><dep> 114 </dep></entry>
+      <entry><ind> 100 </ind><dep> 160 </dep></entry>
+      <entry><ind> 120 </ind><dep> 211 </dep></entry>
+      <entry><ind> 140 </ind><dep> 265 </dep></entry>
+      <entry><ind> 156.50 </ind><dep> 305 </dep></entry>
+      <entry><ind> 166.50 </ind><dep> 329.0 </dep></entry>
+    </interpolation>
+    <axis>
+      <x> -1 </x>
+      <y>  0 </y>
+      <z>  0 </z>
+    </axis>
+  </animation>
+
+</PropertyList>

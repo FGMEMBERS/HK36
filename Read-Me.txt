@@ -1,0 +1,10 @@
+Hello and thanks for downloading the Diamond HK36 "Super Dimona". I hope you will like it :D
+It was created by D-ECHO (Benedikt Wolf) based on Helijah (Emmanuel BARANGER)'s Diamond Da20 "Katana" and many xml parts, nasal files, instruments, textures and effects are still from it.
+Features:
+-realistic FDM (at least it seems to me so, I hope you also think so :D
+-built according to PoH from http://support.diamond-air.at/fileadmin/uploads/files/after_sales_support/HK36_Series/Flughandbuch/Basis-Handbuch/30102-r5-HK36R-FHB-MTV1.pdf
+-glass reflect (interior/exterior) with rain displayed
+-pretty decent 3d-model
+-Limits (generic +mtow)
+-realistic whirled water due to propeller and wheels
+-checklists according to PoH http://support.diamond-air.at/fileadmin/uploads/files/after_sales_support/HK36_Series/Airplane_Flight_Manual/Basic_Manual/30120e-r3-HK36TTC-AFM.pdf
