@@ -20,6 +20,13 @@
           <script>katana.immat_dialog.toggle()</script>
         </binding>
       </item>
+      <item>
+          <label>Swap Panels</label>
+        <binding>
+          <command>property-toggle</command>
+          <property>/sim/model/panels</property><!--True = Old Panel  False = New panel-->
+        </binding>
+      </item>
     </menu>
   </default>
 

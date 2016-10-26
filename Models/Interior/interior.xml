@@ -7,10 +7,33 @@
 
 
   <!-- Tableau de bord -->
+    <!--New panel-->
   <model>
+      <name>newpanel</name>
     <path>Aircraft/HK36/Models/Interior/Panel/panel.xml</path>
   </model>
-
+  <!--Old Panel-->
+  <model>
+      <name>oldpanel</name>
+    <path>Aircraft/HK36/Models/Interior/Panel/oldpanel.xml</path>
+  </model>
+  
+  <animation>
+      <type>select</type>
+      <object-name>oldpanel</object-name>
+      <condition>
+          <property>/sim/model/panels</property><!--True = Old Panel  False = New panel-->
+      </condition>
+  </animation>
+  <animation>
+      <type>select</type>
+      <object-name>newpanel</object-name>
+      <condition><not>
+          <property>/sim/model/panels</property><!--True = Old Panel  False = New panel-->
+      </not>
+      </condition>
+  </animation>
+      
   <!-- Pilote -->
  <!-- <model>
     <path>Aircraft/Katana/Models/Pilot/pilot.xml</path>
