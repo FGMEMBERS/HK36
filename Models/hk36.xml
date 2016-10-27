@@ -754,12 +754,12 @@
     <property>sim/model/door-positions/crew/position-norm</property>
     <interpolation>
       <entry><ind> 0.0 </ind><dep> 0.0 </dep></entry>
-      <entry><ind> 0.2 </ind><dep> -1 </dep></entry>
-      <entry><ind> 1.0 </ind><dep> -50 </dep></entry>
+      <entry><ind> 0.2 </ind><dep> 1 </dep></entry>
+      <entry><ind> 1.0 </ind><dep> 85 </dep></entry>
     </interpolation>
     <center>
-      <x-m> -2.43954 </x-m>
-      <z-m>0.34962 </z-m>
+      <x-m> -0.74913 </x-m>
+      <z-m>0.47651 </z-m>
     </center>
     <axis>
       <x> 0 </x>
